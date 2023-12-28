@@ -6,8 +6,8 @@ Built with the [Laravel PHP framework](https://laravel.com/), Spacemaker provide
 - Resource management
 - Event scheduling
 - Calendar export
-- Billing integration
-- Reporting
+- Billing service integration
+- Report generation
 
 Spacemaker can be deployed to a cloud hosting provider or self-hosted. Thanks to its open source nature, Spacemaker can also be forked and customized to suit your organization's particular needs.
 
