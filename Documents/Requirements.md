@@ -52,8 +52,7 @@ As an all-in-one solution for makerspaces, Studio Share should integrate with pa
 
 ## Administration and Reporting
 Users with adequate administrative roles should gain direct access to query and modify Studio Share data as needed. These administrative tools should include:
+- Accommodate one or more data instrumentation tools such as Metabase
 - SQL queries of database.
-- Flexible creation of query views for reporting.
-- Mechanism for sharing or re-visiting query views.
 - Backup and import of database.
 - Security access system synchronization with user roles.
